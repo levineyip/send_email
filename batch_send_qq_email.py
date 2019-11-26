@@ -35,7 +35,7 @@ SERVER = {
 
 USER = {
     "email": "1047924016@qq.com",  # 邮箱登录账号
-    "password": "wdoeblnezynhbeee"  # 发送人邮箱的授权码
+    "password": "******************"  # 发送人邮箱的授权码
 }
 
 
