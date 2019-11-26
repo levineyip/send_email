@@ -6,7 +6,7 @@ from exchangelib import DELEGATE, Account, Credentials, Message, Mailbox, HTMLBo
 def Email(to, subject, body):
     creds = Credentials(
         username='wei.yw.ye',
-        password='Gaochan@199008196'
+        password='***********************'
     )
     account = Account(
         primary_smtp_address='wei.yw.ye@fih-foxconn.com',
